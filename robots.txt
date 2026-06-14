@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://stampling-site.vercel.app/sitemap.xml
